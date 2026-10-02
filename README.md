@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Ajay 👋
 
-<!--
-**ajayanu850/ajayanu850** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python Automation & QA Engineer
 
-Here are some ideas to get you started:
+I build Python-based automation solutions for repetitive tasks, software testing, API validation, log analysis, and file processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+
+- Python
+- Pytest
+- REST API Testing
+- Requests
+- JSON & CSV
+- Log Analysis
+- Git & GitHub
+- Playwright
+- Selenium
+
+### 🚀 Portfolio Projects
+
+#### Python Log Analyzer
+A Python automation tool for analyzing server logs, filtering records by ID, identifying errors, and generating reports.
+
+#### REST API Automation
+Automated REST API testing using Python, Requests, and Pytest.
+
+#### File Automation Tool
+Python automation for CSV, JSON, file processing, and repetitive tasks.
+
+#### Web Test Automation
+Automated web application testing using Python and Playwright.
+
+### 💼 Freelance Services
+
+- Python Automation Scripts
+- Log Analysis Automation
+- REST API Testing
+- CSV / JSON Automation
+- QA Automation
+- Web Test Automation
+- Python Script Debugging
+
+### 📚 Currently Building
+
+Python automation projects and practical QA automation solutions.
