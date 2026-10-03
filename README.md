@@ -43,3 +43,17 @@ Automated web application testing using Python and Playwright.
 ### 📚 Currently Building
 
 Python automation projects and practical QA automation solutions.
+
+## 🚀 Portfolio Projects
+
+### [Python Log Analyzer](https://github.com/ajayanu850/python-log-analyzer)
+Python tool for log filtering, error identification, and automated report generation.
+
+### [REST API Automation](https://github.com/ajayanu850/rest-api-automation)
+Automated GET, POST, PUT, DELETE and negative API testing using Python, Requests and Pytest.
+
+### [Python CSV & JSON Automation](https://github.com/ajayanu850/python-file-automation)
+Automatically processes CSV files and generates combined CSV and JSON reports.
+
+### [Web UI Automation](https://github.com/ajayanu850/web-ui-automation)
+Browser automation for login, cart operations and logout using Python, Playwright and Pytest.
